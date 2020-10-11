@@ -5,3 +5,7 @@ html, body {
     overflow-x: hidden;
     -ms-overflow-x: hidden;
 }
+
+* {
+    font-family: 'Anonymous Pro', monospace;
+}
